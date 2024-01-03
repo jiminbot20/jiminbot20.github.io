@@ -1,4 +1,4 @@
 home:
   heading: "Jimin Jun"
   subheading: "jiminbot20@gm.gist.ac.kr"
-  banner: /assets/images/banners/nasa2.jpeg
+  banner: "/assets/images/banners/nasa2.jpeg"
